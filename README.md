@@ -14,6 +14,9 @@ one person does it all. Python · SQLite · automatic signed updates · Inno ins
 v1.1.2 released October 31, 2026 — free to download and use.
 → github.com/jrmcw-source/FleetSheet
 Selected work (anonymized case studies)
+
+What follows are the engagements I can still document end to end. They are samples from a much larger body of work — most of the rest ran on company systems and stayed behind when I left. The numbers are the real ones, from the records that survive.
+
 Field Inventory & Billing — Tiger Bullets™ (Excel). I ran the tracking system for a
 lost-circulation product program in an Arkansas shale play, 2009–2013. 55,886 sacks
 (1.4M lbs) came in; 251 delivery tickets went out across 227 wells and 15 rigs;
@@ -37,6 +40,9 @@ Pro-Log, Inc. (New Iberia, LA), 2005–2022 — warehouse, rentals,
 McBo Marketing LLC — owner; digital marketing services for small businesses
   (websites, email, online presence)
 Before that: journeyman carpenter; restaurant management
+
+The work put me alongside operations of every size. Through Pro-Log I worked with and for majors — Shell, BP, Petrobras, BHP Billiton, Chevron, ExxonMobil, GE, Maersk — and with the service companies under them: Baker Hughes, Halliburton, Schlumberger, Chesapeake, MI-SWACO, Fugro, and a long tail of third-tier shops and vendors. Cooperative work, side by side; I was never on their payroll. The habits that held up at that scale are the same ones that run a one-desk shop: know where everything is, bill it exactly, prove the count.
+
 Skills
 SQL (SELECT, JOINs, GROUP BY, aging logic) · Power BI · Python · Excel reporting ·
 billing & collections · inventory & asset tracking · purchasing & vendor analysis ·
