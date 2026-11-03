@@ -23,6 +23,7 @@ lost-circulation product program in an Arkansas shale play, 2009–2013. 55,886 
 $1.71M got invoiced, and every logged delivery closed with a signed ticket. One
 workbook held deliveries, warehouse and field inventory, signed-ticket billing,
 and the count set against the math — with the difference shown, not buried.
+**Live dashboard (Tableau Public):** [Tiger Bullets Program, 2009–2013 — Field Inventory & Billing](https://public.tableau.com/views/TigerBulletsProgram20092013FieldInventoryBilling/Dashboard1)
 Asset Register & Job-Cost Ledger. I kept the two records a multi-site oilfield
 services company ran on: a register of 527 assets — serial numbers, warranties,
 and a named location, work area, and person for every one, across five sites — and
