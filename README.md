@@ -6,12 +6,12 @@ exceptions in operational records, matched field activity to invoices, and turne
 usage data into purchasing and rental decisions. Now I'm formalizing that foundation
 with SQL, Power BI, and Python.
 Currently: Google Data Analytics Professional Certificate — in progress (Coursera) ·
-Microsoft AI Business Professional coursework · FleetSheet v1.0 shipped (October 2026)
+Microsoft AI Business Professional coursework · FleetSheet v1.1.2 shipped (October 2026)
 Featured project — FleetSheet
 Track your equipment to the bank. A one-desk equipment-rental tracker with
 compliance checks and invoicing / accounts receivable, built for the small shop where
 one person does it all. Python · SQLite · automatic signed updates · Inno installer.
-v1.0 released October 10, 2026 — free to download and use.
+v1.1.2 released October 31, 2026 — free to download and use.
 → github.com/jrmcw-source/FleetSheet
 Selected work (anonymized case studies)
 Field Inventory & Billing — Tiger Bullets™ (Excel). I ran the tracking system for a
