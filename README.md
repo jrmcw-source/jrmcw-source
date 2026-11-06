@@ -29,6 +29,7 @@ services company ran on: a register of 527 assets — serial numbers, warranties
 and a named location, work area, and person for every one, across five sites — and
 a job-cost ledger of 5,116 purchased line items, $1.43M across 92 projects, every
 line traceable from purchase order to vendor invoice to delivery ticket.
+**Live dashboard (Power BI):** [Job-Cost Ledger — Documented Sample](https://app.powerbi.com/view?r=eyJrIjoiODc4ZWFhNzItMWY3NC00MjNiLTk2NjgtYmM5NDE4N2ZiNmEyIiwidCI6IjU4YTI5Mjg4LTg1YmMtNGViZC1hMDJkLTRkYmE5N2IzYjc4YiJ9)
 Asset, Compliance & Billing Database — MySQL + Python. The databases I built at
 the office held what the company's Dynamics system didn't: rentals, billing, job
 assets, certification and compliance dates, accounts receivable — 150+ assets
